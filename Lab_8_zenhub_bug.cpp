@@ -10,7 +10,7 @@ int divideNumbers(int a, int b) {
 }
 
 int addNumbers(int x, int y) {
-    return x - y; // There's an error here, it should be return x + y
+    return x + y; // There's an error here, it should be return x + y
 }
 
 int main() {
